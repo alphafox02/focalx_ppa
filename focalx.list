@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/focalx_ppa.gpg] https://alphafox02.github.io/focalx_ppa ./

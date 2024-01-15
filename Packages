@@ -1,0 +1,660 @@
+Package: LTESniffer
+Version: 2.0.0
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 92
+Provides: LTESniffer
+Filename: ./LTESniffer_2.0.0_amd64.deb
+Size: 24431200
+MD5sum: ee0ef07a9b65f6ca91d09a8d3d0a5a03
+SHA1: 39e5e187aa1c1cb21895bfb54f1629750bf5bea8
+SHA256: db267778a7d509bd01dbbd6e7f8fec67fedcf0c100c1355bbec0d11393aca428
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: SDRconnect
+Version: 20240115-b85a1fe33
+Architecture: all
+Maintainer: SDRplay
+Filename: ./SDRconnect_amd64.deb
+Size: 28084560
+MD5sum: cefc2623e48e9582ff088481e9a12f96
+SHA1: 1b9322642d8dfcf7e4dd41cebe0d28e5cb7c1b05
+SHA256: 6ddfc571718fb19ede0b0310d720d9f426bfea96c65d8b80698d42cb428ff9e9
+Description: SDR receiver software
+
+Package: SparkSDR
+Version: 2.0.971
+Architecture: amd64
+Maintainer: SparkSDR
+Installed-Size: 107124
+Depends: libc6, libgcc1, libgssapi-krb5-2, libstdc++6, zlib1g, libssl3 | libssl1.1 | libssl1.0.2 | libssl1.0.1 | libssl1.0.0 | libssl0.9.8, libicu72 | libicu71 |libicu70 | libicu69 |libicu68 | libicu67 |libicu66 | libicu65 | libicu64 | libicu63 | libicu62 | libicu61 | libicu60 | libicu59 | libicu58 | libicu57 | libicu56 | libicu55 | libicu54 | libicu53 | libicu52, libportaudio2, libusb-1.0-0-dev
+Filename: ./SparkSDR.2.0.971.linux-x64.deb
+Size: 27989064
+MD5sum: 0df68b39e8a1d57e1421ee629cc8a94f
+SHA1: 12fd1d77173950271e491c7bf1a5a3036ed8f4bf
+SHA256: 2d0da8f04d5d54d79907d739211d972bb1b41e711f3dd721079fffcbdbe6322a
+Section: misc
+Priority: extra
+Description: SparkSDR multi radio, multi receiver software defined radio.
+
+Package: acarsdec
+Version: 20230827-1
+Architecture: amd64
+Maintainer: root@wardragon
+Installed-Size: 112
+Provides: build
+Filename: ./acarsdec_20230827-1_amd64.deb
+Size: 41994
+MD5sum: 86548230b5d4aad0861b163d52ab8900
+SHA1: aa00ac5adef51f1629533ed8bab788f4bcbe42ae
+SHA256: 0f65ffbfc5e3f69316ff150a96e52911dc831abb125b26a68779cd4330c4fccf
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: dsd-fme
+Version: 20230624-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 792
+Provides: build
+Filename: ./dsd-fme_20230624-1_amd64.deb
+Size: 207382
+MD5sum: f454af28ba0572ed321d62273975a99e
+SHA1: a5a0e8f18c0883f619b9389cfc3116257755ba55
+SHA256: 54e6c04953cd8a7def04a03cfcca59969d0dbcd3961ee7a863514f1edc254ead
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: dumphfdl
+Version: 20231217-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 188
+Provides: build
+Filename: ./dumphfdl_20231217-1_amd64.deb
+Size: 66330
+MD5sum: e2561366dcf76bb67a1430f04c4cfebb
+SHA1: bff32f15054a937b148f5c88d05365e12b167068
+SHA256: e6413488b10d35fbeaaebf785cde0b9baa36b19c04e303c0eca4ee30f7efdc50
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: dumpvdl2
+Version: 20230827-1
+Architecture: amd64
+Maintainer: root@wardragon
+Installed-Size: 1692
+Provides: build
+Filename: ./dumpvdl2_20230827-1_amd64.deb
+Size: 378708
+MD5sum: 356b044ea3a66a9fc4d8142cc6ff094c
+SHA1: 10a2d71102f01dbb9cc10610e07d2b36fc4b0c75
+SHA256: c193479535f32aad63d38bed851c576550fa9e1acb4a41f339230587af14708e
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: gqrx-sdr
+Version: 20231130-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 2256
+Provides: build
+Filename: ./gqrx-sdr_20231130-1_amd64.deb
+Size: 716648
+MD5sum: 6af2dc77522ca5e6fb0e5a3f70ac8b67
+SHA1: d276ac385934ab2831afaad80e307aeccfd57ac5
+SHA256: 9b5cde14f20d03456b92caadbfd36ab449de2fb859e36a91f1339d4aebb28cc5
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: gr-gsm
+Version: 20230226-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 3044
+Provides: build
+Filename: ./gr-gsm_20230226-1_amd64.deb
+Size: 568228
+MD5sum: 826491fd972c9bd4fb9c445be598da3c
+SHA1: 085ae91d23747c2f25696734671513f90c598667
+SHA256: 26e55b649c89fe0c65a32ce568db50f5ebd6cc3971c501a1151c4f96198005b9
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: gr-m17
+Version: 20230301-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 428
+Provides: build
+Filename: ./gr-m17_20230301-1_amd64.deb
+Size: 144068
+MD5sum: 425306f5ceeb7ea586480878f63592ad
+SHA1: ebfe0eb31f5d061d512b247396e2fef157b6300b
+SHA256: 8b0cb86e9f61d890434bc137d21c4151a86444505b3658419584d0399b429542
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: gridtracker
+Version: 1.23.0402
+Architecture: all
+Maintainer: Matthew Chambers <nr0q@gridtracker.org>
+Installed-Size: 37765
+Depends: nwjs
+Recommends: speech-dispatcher-espeak-ng
+Filename: ./gridtracker_1.23.0402_all.deb
+Size: 21492020
+MD5sum: fb4b54ea1d06d59b95b3dee01ebc6b18
+SHA1: 3ab79d30e52bd653987a47148f0c4deb75bd5dbf
+SHA256: be955fcc2400c203366b3e878edb47ec89eeff63251927caaa6818b0e8ccf9c5
+Section: hamradio
+Priority: optional
+Homepage: https://gridtracker.org/
+Description: Companion program to WSJT-X/JTDX
+ .
+ GridTracker listens to traffic from WSJT-X/JTDX, displays it on a map,
+ and has a sophisticated alerting and filtering system for finding and
+ working interesting stations. It also will upload QSO records to multiple
+ logging frameworks including Logbook of the World.
+
+Package: hcxdumptool
+Version: 6.3.0-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 160
+Provides: hcxdumptool
+Filename: ./hcxdumptool_6.3.0-1_amd64.deb
+Size: 61276
+MD5sum: d71ec2ba8c5ce3897215caefca18b332
+SHA1: b93fc68455278b5ec8a2b0bd3159148d93f21f8f
+SHA256: c6da5587519b05b41d8ba5c386ca3cf01d2198fae585772e46f6d21078058449
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: hcxtools
+Version: 6.3.0-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 536
+Provides: hcxtools
+Filename: ./hcxtools_6.3.0-1_amd64.deb
+Size: 149242
+MD5sum: 08f484da3e03a916fbb9e788124315c6
+SHA1: d113e11e39796d1cb067331955012cc1692ba7f0
+SHA256: 351630825995d53bdb0547d65249c50066c6e4e196fe69fdd99bd46813592687
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: ice9-bluetooth-sniffer
+Version: 20230613-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 36
+Provides: build
+Filename: ./ice9-bluetooth-sniffer_20230613-1_amd64.deb
+Size: 738
+MD5sum: 6fed0912c035e914b493f9053563ef01
+SHA1: 1789669d2c2b3424353e66f1bc3d983ea40ebd80
+SHA256: 48b2ca2dae84442e3a3619b0efed00face58559cc3c64399d719f2ded8610bb1
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: jaero
+Source: https://github.com/jontio/JAERO
+Version: 1.0.4.14
+Architecture: amd64
+Maintainer: https://github.com/jontio
+Depends: qtmultimedia5-dev, libvorbis-dev, libogg-dev, libqt5multimedia5-plugins, libqcustomplot-dev, libqt5svg5-dev, libzmq3-dev
+Provides: jaero
+Filename: ./jaero_1.0.4.14-1.deb
+Size: 10777358
+MD5sum: 6ebf447b1310596881e8a88d46242308
+SHA1: 6feb2f812f14609f723f75be147373a944134a84
+SHA256: a724abbefd9fbc06db9239a0d0242f7d31d58b501e1eee51af7e7868ebacefcc
+Section: base
+Priority: extra
+Description: Demodulate and decode Aero signals. These signals contain SatCom ACARS messages as used by planes beyond VHF ACARS range
+License: MIT
+
+Package: jaero
+Source: https://github.com/jontio/JAERO
+Version: 1.0.4.14-5-g1d4e515
+Architecture: amd64
+Maintainer: https://github.com/jontio
+Depends: qtmultimedia5-dev, libvorbis-dev, libogg-dev, libqt5multimedia5-plugins, libqcustomplot-dev, libqt5svg5-dev, libzmq3-dev
+Provides: jaero
+Filename: ./jaero_1.0.4.14-5-g1d4e515-1.deb
+Size: 10782142
+MD5sum: f3b16c0eeb4f8d6ea9ae902d0021363d
+SHA1: 8e80e3be774eb3cafcc7e7e707d1cc40b6bec881
+SHA256: f483a212a1650466026befefb9d7bb395e4e2e8f0f738648dae13a41f25d652c
+Section: base
+Priority: extra
+Description: Demodulate and decode Aero signals. These signals contain SatCom ACARS messages as used by planes beyond VHF ACARS range
+License: MIT
+
+Package: libacars-dev
+Version: 2.2.0-3147aa0
+Architecture: amd64
+Maintainer: https://github.com/szpajder
+Installed-Size: 2200
+Depends: libjansson4
+Provides: libacars-dev
+Filename: ./libacars-dev_2.2.0-3147aa0_amd64.deb
+Size: 253118
+MD5sum: 5b7d3e0625a1333c0d6a886825b4e791
+SHA1: 73246ebe8ae32d57c5e7e914ed3111b828a668e4
+SHA256: 9c166ebab426617265f1cb3537ba03863f44ff662b1d1261fd3a162f50734d0d
+Section: checkinstall
+Priority: extra
+Description: A library for decoding various ACARS message payloads
+ Package created with checkinstall 1.6.3
+
+Package: libqt5positioning5
+Source: qtlocation-opensource-src
+Version: 5.15.3+dfsg-4
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 658
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libstdc++6 (>= 11), qtbase-abi-5-15-3
+Recommends: geoclue-2.0
+Filename: ./libqt5positioning5_5.15.3+dfsg-4_amd64.deb
+Size: 223848
+MD5sum: 27f59f3cc58f5341135057f6285eae9b
+SHA1: 233f294b10e2ac12c65465cf8daf27ed75361710
+SHA256: 932507ce5e47b2094efa54502b58e4c426dee21b01c18c9c8cbfb2686cd14981
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: https://doc.qt.io/qt-5/qtlocation-index.html
+Description: Qt Positioning module
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This package contains Qt Positioning module.
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: libqt5positioning5-plugins
+Source: qtlocation-opensource-src
+Version: 5.15.3+dfsg-4
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 276
+Depends: libqt5positioning5 (= 5.15.3+dfsg-4), libc6 (>= 2.14), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 5)
+Filename: ./libqt5positioning5-plugins_5.15.3+dfsg-4_amd64.deb
+Size: 93102
+MD5sum: 5361c6f37a3af2281b8d5e043726f75a
+SHA1: 62ec3ae95fe76cef3ddb6b56d1f64cea9cc87206
+SHA256: cfaefed6cfdf8c8b3660c8eb1a5c16bbf8584d6089654756ade13b17c69c8417
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: https://doc.qt.io/qt-5/qtlocation-index.html
+Description: Qt Positioning module - position plugins
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This package contains Qt Positioning plugins.
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: librtlsdr-dev
+Source: rtl-sdr
+Version: 0.6.0-5
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 148
+Depends: librtlsdr0 (= 0.6.0-5), libusb-1.0-0-dev
+Filename: ./librtlsdr-dev_0.6.0-5_amd64.deb
+Size: 42176
+MD5sum: b33560a50786eda8201e8c3d34fe042d
+SHA1: ca9daa11e92f2346b26509e037758ce14dadc041
+SHA256: 4a315d267566bfeb6ce4b48f15adb9af9890052091e56f19ad5b4d87cfd88eb5
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: http://sdr.osmocom.org/trac/wiki/rtl-sdr
+Description: Software defined radio receiver for Realtek RTL2832U (development)
+ rtl-sdr is a software defined radio (SDR) receiver software for certain
+ low-cost DVB-T/DAB(+) USB dongles based on the Realtek RTL2832U chip.
+ .
+ This package contains development files.
+Original-Maintainer: A. Maitland Bottoms <bottoms@debian.org>
+
+Package: librtlsdr0
+Source: rtl-sdr
+Version: 0.6.0-5
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 108
+Depends: libc6 (>= 2.14), libusb-1.0-0 (>= 2:1.0.21)
+Filename: ./librtlsdr0_0.6.0-5_amd64.deb
+Size: 38640
+MD5sum: 43800bd4cebc593d7681eb99854e9224
+SHA1: 07a0f30ecaaa27ca354698a2b0dbc6e25701fcd0
+SHA256: a2ecad7b4a742ffb89ad11732702c49df7b15a65ab338536f3e988a418dcf7db
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: http://sdr.osmocom.org/trac/wiki/rtl-sdr
+Description: Software defined radio receiver for Realtek RTL2832U (library)
+ rtl-sdr is a software defined radio (SDR) receiver software for certain
+ low-cost DVB-T/DAB(+) USB dongles based on the Realtek RTL2832U chip.
+ .
+ This package contains the shared library.
+Original-Maintainer: A. Maitland Bottoms <bottoms@debian.org>
+
+Package: osmo-pcu
+Version: 1.1.2
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 546
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libosmocore18 (>= 1.6.0), libosmogb12 (>= 1.3.0), libosmogsm17 (>= 1.3.0), libosmovty9 (>= 1.5.1), libstdc++6 (>= 4.1.1), libtalloc2 (>= 2.0.4~git20101213)
+Filename: ./osmo-pcu_1.1.2_amd64.deb
+Size: 163920
+MD5sum: b0f93fff88e2b4e4632a19be691f0679
+SHA1: d9948d4e306240c9cd726e4ff4820f46e5244202
+SHA256: 93816697c65ad7c35d7c74947178c39ea29164fe51ea9c2789b9fb659e1e28bc
+Section: net
+Priority: optional
+Homepage: http://osmocom.org/projects/osmopcu
+Description: Osmocom GPRS/EDGE Packet Control Unit (PCU)
+ The GPRS Packet Control Unit is co-located with the GSM BTS or GSM BSC
+ in order to provide packet-switched services for 2G (2.5G, 2.75G)
+ networks.  OsmoPCU is the Osmcoom implementation of this network
+ element. It interfaces to osmo-bts via the PCU socket of OsmoBTS
+ and via Gb (NS-over-IP) interface with the SGSN such as OsmoSGSN.
+Original-Maintainer: Debian Mobcom Maintainers <Debian-mobcom-maintainers@lists.alioth.debian.org>
+
+Package: osmo-trx
+Version: 1.4.1-2
+Architecture: amd64
+Maintainer: root@wardragon
+Installed-Size: 1232
+Provides: osmo
+Filename: ./osmo-trx_1.4.1-2_amd64.deb
+Size: 240642
+MD5sum: 8743c4573ed392dac536854023f24487
+SHA1: f3a86fc1de6ddf5386fc597baad13958e7f1c771
+SHA256: eb4c396abc93f4759b4d9140baa0ba4c138ce62426d6d7f98063e0fb826ebca0
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: proxmark3
+Version: 4.17768-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 71788
+Depends: libbluetooth-dev (>= 5.64-0ubuntu1.1), liblz4-dev (>= 1.9.3-2build2)
+Provides: proxmark3
+Filename: ./proxmark3_4.17768-1_amd64.deb
+Size: 21454256
+MD5sum: 1fc5f5311d1cfe8a9cb97710e0bea01b
+SHA1: fb063bb237bf77cc464f7d355969e4bb98ea40b1
+SHA256: 96e792fd48be2e35796c5d05b84f21ed7d044c5e345b68b3bf9b2bf1097d144c
+Section: checkinstall
+Priority: extra
+Description: Firmware, flasher, and client for the Proxmark3
+ This package contains the client and tools for the Proxmark3. It is
+ dedicated to bringing the most out of the new features for Proxmark3 RDV4.0
+ new hardware and design but it will also support older hardware revisions.
+
+Package: python3-websockets
+Version: 10.4
+Architecture: amd64
+Maintainer: <@a9b279f872ea>
+Installed-Size: 602
+Depends: python3
+Filename: ./python3-websockets_10.4_amd64.deb
+Size: 185330
+MD5sum: 981a482b79a3dfb63b10fcd7dc6ebb58
+SHA1: d5f8cdc6b1f3ba582d12b11bb5d5fe2e93ca5b0b
+SHA256: 0afc1842c204da64c5924e085d4a82998d0abf2b319b801039c6a01190b574b7
+Section: default
+Priority: extra
+Homepage: https://github.com/aaugustin/websockets
+Description: An implementation of the WebSocket Protocol (RFC 6455 & 7692)
+License: BSD
+Vendor: none
+
+Package: qml-module-qtpositioning
+Source: qtlocation-opensource-src
+Version: 5.15.3+dfsg-4
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 129
+Depends: libqt5positioning5-plugins (= 5.15.3+dfsg-4), libc6 (>= 2.14), libqt5core5a (>= 5.15.1), libqt5positioning5 (>= 5.12.2), libqt5positioningquick5 (>= 5.15.2), libqt5qml5 (>= 5.15.3+dfsg~), libqt5quick5 (>= 5.15.3+dfsg~) | libqt5quick5-gles (>= 5.15.3+dfsg~), libstdc++6 (>= 5), qtdeclarative-abi-5-15-3
+Filename: ./qml-module-qtpositioning_5.15.3+dfsg-4_amd64.deb
+Size: 27246
+MD5sum: a3e75028cb63061623340d51274dd854
+SHA1: dc795d4106008d65826ac4a0d5832f8b6674d80f
+SHA256: e117af4af6a8dfc1b6eafa263001c304e57fec915e7fd19b593c6e3bbf4e52c4
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: https://doc.qt.io/qt-5/qtlocation-index.html
+Description: Qt Positioning QML module
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This package contains the Qt Positioning QML plugin for Qt Declarative.
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: qradiolink
+Version: 20230704-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 8
+Provides: build
+Filename: ./qradiolink_20230704-1_amd64.deb
+Size: 4247090
+MD5sum: 3310794f8f84a7c9941c4fef704f9716
+SHA1: d9498247af0a03c023cc13189b6454872d4ee463
+SHA256: f23dc96b1ef2d5174b68901c3165abb1438c8f112956c67597224d814f57b90c
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: qtpositioning5-dev
+Source: qtlocation-opensource-src
+Version: 5.15.3+dfsg-4
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 182
+Depends: libqt5positioning5 (= 5.15.3+dfsg-4), libqt5positioning5-plugins (= 5.15.3+dfsg-4), libqt5positioningquick5 (= 5.15.3+dfsg-3), qtbase5-dev, qtdeclarative5-dev
+Breaks: qtlocation5-dev (<< 5.10.1+dfsg-2~)
+Replaces: qtlocation5-dev (<< 5.10.1+dfsg-2~)
+Filename: ./qtpositioning5-dev_5.15.3+dfsg-4_amd64.deb
+Size: 19274
+MD5sum: 628f82fa0409cbae6e8ca2fbd66f53df
+SHA1: 065362b5386baecdf01ecc218f854f8e48f042c4
+SHA256: f7dac18b8ac467236560b80853ad071c4637b0f37caa449e207e35f3579bbccb
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://doc.qt.io/qt-5/qtlocation-index.html
+Description: Qt 5 Positioning development files
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This package contains the header development files used for building Qt 5
+ applications using Qt Positioning library.
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: rtl-433
+Version: 20230510-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 1200
+Provides: build
+Filename: ./rtl-433_20230510-1_amd64.deb
+Size: 409304
+MD5sum: 6e15557f4c4f312405089c280e319e80
+SHA1: ef81df2634b12b288acc0c197be9fca8739cdd03
+SHA256: 68538d5a10848450eeda297d7b9f745ec2c0ff29114f159c2be56642fabf6863
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: rtl-ais
+Version: 20230427-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 92
+Provides: rtl
+Filename: ./rtl-ais_20230427-1_amd64.deb
+Size: 20404
+MD5sum: b8e01dd535b1240759e2e903b750c6c4
+SHA1: 9fa611b6a6040acb7253388bd54376d9eb9f73f8
+SHA256: 0f4ebc603e9b1db7e4df79a38868c5c951f4d0f1975720f57f94062a4401d67e
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: rtl-sdr
+Version: 0.6.0-5
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 230
+Depends: librtlsdr0 (= 0.6.0-5), libc6 (>= 2.34)
+Filename: ./rtl-sdr_0.6.0-5_amd64.deb
+Size: 75690
+MD5sum: 43ad9564fe6a66c2add8ca466045015c
+SHA1: 3bf43742809f7542347508963399f7b2ce9d8b90
+SHA256: 3ea06c50e6c131c1ac9066c17bc3372be7aaa838c68f49fec31a0bf7f7bf37ef
+Section: comm
+Priority: optional
+Homepage: http://sdr.osmocom.org/trac/wiki/rtl-sdr
+Description: Software defined radio receiver for Realtek RTL2832U (tools)
+ rtl-sdr is a software defined radio (SDR) receiver software for certain
+ low-cost DVB-T/DAB(+) USB dongles based on the Realtek RTL2832U chip.
+ .
+ This package contains a set of command line utilities:
+  * rtl_adsb: a simple ADS-B decoder for RTL2832 based DVB-T receivers
+  * rtl_eeprom: an EEPROM programming tool for RTL2832 based DVB-T receivers
+  * rtl_fm: a narrow band FM demodulator for RTL2832 based DVB-T receivers
+  * rtl_sdr: an I/Q recorder for RTL2832 based DVB-T receivers
+  * rtl_tcp: an I/Q spectrum server for RTL2832 based DVB-T receivers
+  * rtl_test: a benchmark tool for RTL2832 based DVB-T receivers
+Original-Maintainer: A. Maitland Bottoms <bottoms@debian.org>
+
+Package: satdump
+Version: 1.1.3-30916beb
+Architecture: amd64
+Maintainer: Aang23
+Installed-Size: 157436
+Depends: libfftw3-bin, libvolk-bin | libvolk2-bin, libpng16-16, libnng1, librtlsdr0 | librtlsdr2, libhackrf0, libairspy0, libairspyhf1, libglfw3 | libglfw3-wayland, libzstd1
+Filename: ./satdump_1.1.3-30916beb_amd64.deb
+Size: 30158208
+MD5sum: 2861ff1046f2234a172a4ab6254690fc
+SHA1: d1ff5e184cfd3daa3c9d15014858ed49731a46f1
+SHA256: bcd29592481ecaa495fa790304a5fa9e1643f9796c5e6460e9a25c3437f8fe1c
+Section: devel
+Priority: optional
+Description: A satellite data processing software
+
+Package: sdrangel
+Version: 7.17.3-1
+Architecture: amd64
+Maintainer: Edouard Griffiths, F4EXB <f4exb06@gmail.com>
+Installed-Size: 84754
+Depends: libairspy0 (>= 1.0.10), libavcodec58 (>= 7:4.4), libavformat58 (>= 7:4.4), libavutil56 (>= 7:4.4), libbladerf2 (>= 0.2021.10), libc6 (>= 2.35), libcodec2-1.0 (>= 1.0.1), libfaad2 (>= 2.7), libfftw3-single3 (>= 3.3.5), libgcc-s1 (>= 4.0), libhackrf0 (>= 2021.03.1), libhamlib4, libhidapi-libusb0 (>= 0.8.0~rc1+git20140201.3a66d4e+dfsg), libiio0 (>= 0.23), libopencv-core4.5d (>= 4.5.4+dfsg), libopencv-imgcodecs4.5d (>= 4.5.4+dfsg), libopencv-imgproc4.5d (>= 4.5.4+dfsg), libopencv-videoio4.5d (>= 4.5.4+dfsg), libopengl0, libopus0 (>= 1.1), libqt5charts5 (>= 5.14.1), libqt5core5a (>= 5.15.1), libqt5gamepad5 (>= 5.11.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5location5 (>= 5.6.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.15.1), libqt5positioning5 (>= 5.6.0), libqt5qml5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialport5 (>= 5.6.0), libqt5texttospeech5 (>= 5.8.0~alpha), libqt5webenginewidgets5 (>= 5.7.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11), libswresample3 (>= 7:4.4), libswscale5 (>= 7:4.4), libuhd4.1.0 (>= 4.1.0.5), libusb-1.0-0 (>= 2:1.0.23~), qtbase-abi-5-15-3, libasound2, libgl1-mesa-glx, libqt5multimedia5-plugins, qtspeech5-speechd-plugin, pulseaudio, ffmpeg, qml-module-qtlocation, qml-module-qtpositioning, qml-module-qtquick-window2, qml-module-qtquick-dialogs, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-layouts, qml-module-qtgraphicaleffects
+Filename: ./sdrangel_7.17.3-1_amd64.deb
+Size: 34970690
+MD5sum: 3539a63b895b3ade78d06fd3dcc479c9
+SHA1: 592ff19ea9d5b7fa33d94370db6b1c1f6aaa68e1
+SHA256: dbf385b0ddaac5077ce7e83430b0dbffcfbd671b44fdfe395fb6a5b1e25e8ffb
+Section: hamradio
+Priority: optional
+Homepage: https://github.com/f4exb/sdrangel
+Description: SDR/Analyzer/Generator front-end for various hardware
+ SDR/Analyzer/Generator front-end for Airspy, BladeRF, HackRF,
+ RTL-SDR, FunCube, LimeSDR, PlutoSDR, RSP, USRP.
+ Also File source and sink for I/Q samples, network I/Q sources with
+ remote instance.
+ Based on Qt5 framework and OpenGL for the spectrum and scope rendering.
+ Builds on Linux, Windows and Mac O/S
+ Reception modes supported:
+   Analog: AM, ATV, NFM, WFM, SSB, broadcast FM, APT, ILS, VOR
+   Digital: D-Star, Yaesu SF, DMR, dPMR, FreeDV, M17, DAB, DVB-S, LoRa, ADS-B, Packet (AX.25/APRS), AIS, FT8, Navtex, Radiosonde, RTTY, Pager
+   Analyzer: Generic channel
+ Transmission modes supported:
+   Analog: AM, ATV, NFM, SSB, WFM
+   Digital: DVB-S, Packet (AX.25), AIS, 802.15.4
+
+Package: sdrpp
+Version: 1.1.0-1096
+Architecture: all
+Maintainer: Ryzerth
+Depends: libfftw3-dev, libglfw3-dev, libvolk2-dev, librtaudio-dev, libzstd-dev
+Filename: ./sdrpp_ubuntu_jammy_amd64.deb
+Size: 2168604
+MD5sum: a25da6d5b91a716c936a470e879179ff
+SHA1: 08f6297ef0e40411354218ae5fa31674254394cf
+SHA256: 865efed0369d0c1ff13f4ccfdca6e5a7327a3b4c7e4d75fff7dad33ce6e46558
+Description: Bloat-free SDR receiver software
+
+Package: sdrtrunk
+Version: 0.6.0~final
+Architecture: amd64
+Maintainer: dsheirer
+Installed-Size: 8
+Filename: ./sdrtrunk_0.6.0~final_amd64.deb
+Size: 874
+MD5sum: b17165f1be325a75068bacba61f7fe0d
+SHA1: e8f70d2910c9c374a0afa2dd9ba1bab0a214f483
+SHA256: 237959d045fab1e8b39ed566160f698f2a6e0c2222e5cdb3254b48bf3b26e080
+Section: utils
+Priority: optional
+Description: SDR Trunk - Software Defined Radio application
+
+Package: vdlm2dec
+Version: 20230903-1
+Architecture: amd64
+Maintainer: root@wardragon
+Installed-Size: 132
+Provides: build
+Filename: ./vdlm2dec_20230903-1_amd64.deb
+Size: 43882
+MD5sum: 1acb29dcb49838c0a18e4ac29266a493
+SHA1: 133b254d8f184a0925e7101a1d5a13ed9921cc25
+SHA256: ddd0f20b45db85136084f99b61d4b630500f5b0bd2a2718ed185143d2a248205
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: wifite
+Version: 2.7.0+ds1-1
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 2410
+Depends: python3:any, aircrack-ng, reaver, tshark, net-tools, ieee-data
+Suggests: macchanger, bully, hashcat, hcxdumptool, hcxpcaptool
+Filename: ./wifite_2.7.0+ds1-1_all.deb
+Size: 873604
+MD5sum: a351364631b4662e89356ea204dd7df6
+SHA1: 0de08e97ee560895324cbb1caabe86b10d1cd76d
+SHA256: ec3f926c0df178c0104376cded9a09137613d5713ded332b43648cd0b52d9045
+Section: net
+Priority: optional
+Homepage: https://github.com/kimocoder/wifite2
+Description: Python script to automate wireless auditing using aircrack-ng tools
+ Wifite is a tool to audit WEP or WPA encrypted wireless networks.
+ It uses aircrack-ng, pyrit, reaver, tshark tools to perform the audit.
+ .
+ This tool is customizable to be automated with only a few arguments
+ and can be trusted to run without supervision.
+Original-Maintainer: Debian Security Tools <team+pkg-security@tracker.debian.org>
+
