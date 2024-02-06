@@ -54,6 +54,22 @@ Section: checkinstall
 Priority: extra
 Description: Package created with checkinstall 1.6.3
 
+Package: cqrlog
+Version: 20240205-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 39840
+Depends: libmariadb-dev-compat
+Provides: cqrlog
+Filename: ./cqrlog_20240205-1_amd64.deb
+Size: 17404444
+MD5sum: d16b3af0d41bd57471aafa66a9e4fcdb
+SHA1: 998d8299ffd54db5066c71d260d835277d4acb82
+SHA256: 02622816a1ad95e1ec84a7bba39ff1473c3d18a350d447e4dc0425ec93541b7e
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
 Package: dsd-fme
 Version: 20230624-1
 Architecture: amd64
