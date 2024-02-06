@@ -115,6 +115,21 @@ Section: checkinstall
 Priority: extra
 Description: Package created with checkinstall 1.6.3
 
+Package: dumpvdl2
+Version: 20240205-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 1692
+Provides: build
+Filename: ./dumpvdl2_20240205-1_amd64.deb
+Size: 376392
+MD5sum: e44dbf5b97255380124f4805f7343fa6
+SHA1: c24c76514324e5982dab13eb28d9a3413e429487
+SHA256: 6443f3fad872c1eed433ee6f42787780f247f820cf6f172591ac549bbe570f88
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
 Package: gqrx-sdr
 Version: 20231130-1
 Architecture: amd64
@@ -156,6 +171,21 @@ Size: 144068
 MD5sum: 425306f5ceeb7ea586480878f63592ad
 SHA1: ebfe0eb31f5d061d512b247396e2fef157b6300b
 SHA256: 8b0cb86e9f61d890434bc137d21c4151a86444505b3658419584d0399b429542
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
+Package: gr-sdrplay3
+Version: 20240205-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 10592
+Provides: build
+Filename: ./gr-sdrplay3_20240205-1_amd64.deb
+Size: 1070880
+MD5sum: 691d97beb567da0826e6b4b4f8f2068c
+SHA1: 94072b75364224b6810cb93da838d143af34a31a
+SHA256: 242eedf3f93e4377d02186f220885767e11395bd4afd3a14d8cae46e8789094c
 Section: checkinstall
 Priority: extra
 Description: Package created with checkinstall 1.6.3
@@ -581,6 +611,21 @@ Section: devel
 Priority: optional
 Description: A satellite data processing software
 
+Package: satdump
+Version: 1.1.4-20240205-87e78122
+Architecture: amd64
+Maintainer: Aang23
+Installed-Size: 159955
+Depends: libfftw3-bin, libvolk-bin | libvolk2-bin, libpng16-16, libnng1, librtlsdr0 | librtlsdr2, libhackrf0, libairspy0, libairspyhf1, libglfw3 | libglfw3-wayland, libzstd1, libjemalloc2 | libjemalloc1
+Filename: ./satdump_1.1.4-20240205-87e78122_amd64.deb
+Size: 30439958
+MD5sum: f2150f44f21a2f70869e9d517b666199
+SHA1: 4deb441932c3a7b71c1f49bb040ec27a6d00531a
+SHA256: 7a2c4e1a7b9109888e71c38c8a73d8a1fc0c58eed0b2671261f009add03fdaa0
+Section: devel
+Priority: optional
+Description: A satellite data processing software
+
 Package: sdrangel
 Version: 7.17.3-1
 Architecture: amd64
@@ -611,15 +656,15 @@ Description: SDR/Analyzer/Generator front-end for various hardware
    Digital: DVB-S, Packet (AX.25), AIS, 802.15.4
 
 Package: sdrpp
-Version: 1.1.0-1139
+Version: 1.1.0-1215
 Architecture: all
 Maintainer: Ryzerth
 Depends: libfftw3-dev, libglfw3-dev, libvolk2-dev, librtaudio-dev, libzstd-dev
 Filename: ./sdrpp_ubuntu_jammy_amd64.deb
-Size: 2168258
-MD5sum: 5962c21ca0cc817986956090d850cdb4
-SHA1: 0cc20fc6ae6cc8f437380d762595e9c4e1d105d7
-SHA256: 231459bc5950a07461e764ff4c59a04a0ec5aa1b3aa8898b9e51bf90e2c7e77c
+Size: 2252610
+MD5sum: 76497bd8b7c7bed502e57da29967e16f
+SHA1: a588eb9d8352de3e457494a2ba27e24eb62c05a4
+SHA256: 37bb692e8896d63c11f29fbbd9b4d9a87e675041924b6c3c11c3a456151f2d14
 Description: Bloat-free SDR receiver software
 
 Package: sdrtrunk
@@ -635,6 +680,21 @@ SHA256: 237959d045fab1e8b39ed566160f698f2a6e0c2222e5cdb3254b48bf3b26e080
 Section: utils
 Priority: optional
 Description: SDR Trunk - Software Defined Radio application
+
+Package: soapysdr0.8-module-sdrplay
+Version: 20240205-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 204
+Provides: build
+Filename: ./soapysdr0.8-module-sdrplay_20240205-1_amd64.deb
+Size: 58066
+MD5sum: 731470a7fd4e3d1fb1d56501a4d2e8e6
+SHA1: 09054558fdcb8941a5eb94e285ff710a44030608
+SHA256: 7899f61fd298c980388b7eee3b26b00acf1df105677dc6a75d683226c4bdf861
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
 
 Package: vdlm2dec
 Version: 20230903-1
