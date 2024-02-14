@@ -1,0 +1,8 @@
+Package: sdrtrunk
+Version: 0.6.1-beta-1
+Architecture: amd64
+Maintainer: dsheirer
+Installed-Size: 8
+Section: utils
+Priority: optional
+Description: SDR Trunk - Software Defined Radio application

@@ -636,15 +636,15 @@ SHA256: 37bb692e8896d63c11f29fbbd9b4d9a87e675041924b6c3c11c3a456151f2d14
 Description: Bloat-free SDR receiver software
 
 Package: sdrtrunk
-Version: 0.6.0~final
+Version: 0.6.1-beta-1
 Architecture: amd64
 Maintainer: dsheirer
 Installed-Size: 8
-Filename: ./sdrtrunk_0.6.0~final_amd64.deb
-Size: 874
-MD5sum: b17165f1be325a75068bacba61f7fe0d
-SHA1: e8f70d2910c9c374a0afa2dd9ba1bab0a214f483
-SHA256: 237959d045fab1e8b39ed566160f698f2a6e0c2222e5cdb3254b48bf3b26e080
+Filename: ./sdrtrunk_0.6.1-beta-1_amd64.deb
+Size: 872
+MD5sum: 1196f7f25090562350994d18cfc458eb
+SHA1: c53099448593920c3573317212cda61f41e23a09
+SHA256: f48daa700c9160614dd7c8c69f762cfa941488674c53cc271575dd8b60a55310
 Section: utils
 Priority: optional
 Description: SDR Trunk - Software Defined Radio application
