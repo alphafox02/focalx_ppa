@@ -507,6 +507,21 @@ Description: Qt 5 Positioning development files
  applications using Qt Positioning library.
 Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 
+Package: rsp-tcp
+Version: 20240213-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 68
+Provides: build
+Filename: ./rsp-tcp_20240213-1_amd64.deb
+Size: 16322
+MD5sum: cd1ff04df7884a83d4d17d3aa106c4ec
+SHA1: 2eea1cb15ee5124be0e280f179f9fcd03c5ece29
+SHA256: 04cc48a0bd0e5be45b1f1fc2f007910be564ef8fcddb1f4ad3a54dc1930bcb81
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
 Package: rtl-433
 Version: 20230510-1
 Architecture: amd64
