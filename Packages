@@ -595,16 +595,16 @@ Priority: optional
 Description: A satellite data processing software
 
 Package: sdrangel
-Version: 7.18.0-1
+Version: 7.19.0-1
 Architecture: amd64
 Maintainer: Edouard Griffiths, F4EXB <f4exb06@gmail.com>
-Installed-Size: 85161
-Depends: libairspy0 (>= 1.0.10), libavcodec58 (>= 7:4.4), libavformat58 (>= 7:4.4), libavutil56 (>= 7:4.4), libbladerf2 (>= 0.2021.10), libc6 (>= 2.35), libcodec2-1.0 (>= 1.0.1), libfaad2 (>= 2.7), libfftw3-single3 (>= 3.3.5), libgcc-s1 (>= 4.0), libhackrf0 (>= 2021.03.1), libhamlib4, libhidapi-libusb0 (>= 0.8.0~rc1+git20140201.3a66d4e+dfsg), libiio0 (>= 0.23), libopencv-core4.5d (>= 4.5.4+dfsg), libopencv-imgcodecs4.5d (>= 4.5.4+dfsg), libopencv-imgproc4.5d (>= 4.5.4+dfsg), libopencv-videoio4.5d (>= 4.5.4+dfsg), libopengl0, libopus0 (>= 1.1), libqt5charts5 (>= 5.14.1), libqt5core5a (>= 5.15.1), libqt5gamepad5 (>= 5.11.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5location5 (>= 5.6.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.15.1), libqt5positioning5 (>= 5.6.0), libqt5qml5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialport5 (>= 5.6.0), libqt5texttospeech5 (>= 5.8.0~alpha), libqt5webenginewidgets5 (>= 5.14.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11), libswresample3 (>= 7:4.4), libswscale5 (>= 7:4.4), libuhd4.1.0 (>= 4.1.0.5), libusb-1.0-0 (>= 2:1.0.23~), qtbase-abi-5-15-3, libasound2, libgl1-mesa-glx, libqt5multimedia5-plugins, qtspeech5-speechd-plugin, pulseaudio, ffmpeg, qml-module-qtlocation, qml-module-qtpositioning, qml-module-qtquick-window2, qml-module-qtquick-dialogs, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-layouts, qml-module-qtgraphicaleffects
-Filename: ./sdrangel_7.18.0-1_amd64.deb
-Size: 35067828
-MD5sum: 51f1e350eee451977ffd010cb10402dc
-SHA1: 4b45ffb11ad2add1f5706e78125192946cf99938
-SHA256: 159c0b44eba42837fb8677971fc87b966f80d3eb59db5d9b16eacc730577addf
+Installed-Size: 86086
+Depends: libairspy0 (>= 1.0.10), libavcodec58 (>= 7:4.4), libavformat58 (>= 7:4.4), libavutil56 (>= 7:4.4), libbladerf2 (>= 0.2021.10), libc6 (>= 2.35), libcodec2-1.0 (>= 1.0.1), libfaad2 (>= 2.7), libfftw3-single3 (>= 3.3.5), libgcc-s1 (>= 4.0), libhackrf0 (>= 2021.03.1), libhamlib4, libhidapi-libusb0 (>= 0.8.0~rc1+git20140201.3a66d4e+dfsg), libiio0 (>= 0.23), libopencv-core4.5d (>= 4.5.4+dfsg), libopencv-imgcodecs4.5d (>= 4.5.4+dfsg), libopencv-imgproc4.5d (>= 4.5.4+dfsg), libopencv-videoio4.5d (>= 4.5.4+dfsg), libopengl0, libopus0 (>= 1.1), libqt5charts5 (>= 5.14.1), libqt5core5a (>= 5.15.1), libqt5gamepad5 (>= 5.11.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5location5 (>= 5.6.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.15.1), libqt5positioning5 (>= 5.6.0), libqt5qml5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialport5 (>= 5.6.0), libqt5svg5 (>= 5.6.0~beta), libqt5texttospeech5 (>= 5.8.0~alpha), libqt5webenginewidgets5 (>= 5.14.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11), libswresample3 (>= 7:4.4), libswscale5 (>= 7:4.4), libuhd4.1.0 (>= 4.1.0.5), libusb-1.0-0 (>= 2:1.0.23~), qtbase-abi-5-15-3, libasound2, libgl1-mesa-glx, libqt5multimedia5-plugins, qtspeech5-speechd-plugin, pulseaudio, ffmpeg, qml-module-qtlocation, qml-module-qtpositioning, qml-module-qtquick-window2, qml-module-qtquick-dialogs, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-layouts, qml-module-qtgraphicaleffects
+Filename: ./sdrangel_7.19.0-1_amd64.deb
+Size: 35303752
+MD5sum: ea340038ee7d39870f3472010c4caec9
+SHA1: 923958a719780afe930c0814a06b28341700150b
+SHA256: b2bfa654f44c96c07323a6832c20f89d582db11202a9c274b130a50652f5a393
 Section: hamradio
 Priority: optional
 Homepage: https://github.com/f4exb/sdrangel
