@@ -1,3 +1,20 @@
+Package: HackRF-Minimodem-ImGui
+Version: 1.0.0
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 92
+Depends: pavucontrol (>= 5.0-2)
+Recommends: pavucontrol
+Provides: HackRF-Minimodem-ImGui
+Filename: ./HackRF-Minimodem-ImGui.deb
+Size: 40534080
+MD5sum: 3e21d0b72d4607b53a4d543f51dbaa20
+SHA1: 2f9ae9c5dcdbe9bbaf2c377f8e62bac91624047c
+SHA256: 13db10c5997f3333c2b3f7dcdca718d0801251e9412d928d804a124c576c3553
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
 Package: LTESniffer
 Version: 2.0.0
 Architecture: amd64
