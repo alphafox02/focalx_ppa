@@ -7,10 +7,10 @@ Depends: pavucontrol (>= 5.0-2)
 Recommends: pavucontrol
 Provides: HackRF-Minimodem-ImGui
 Filename: ./HackRF-Minimodem-ImGui.deb
-Size: 40534080
-MD5sum: 3e21d0b72d4607b53a4d543f51dbaa20
-SHA1: 2f9ae9c5dcdbe9bbaf2c377f8e62bac91624047c
-SHA256: 13db10c5997f3333c2b3f7dcdca718d0801251e9412d928d804a124c576c3553
+Size: 40535196
+MD5sum: b09be91ad0c88f6370abf2f2b1d515d4
+SHA1: bf9f37f9a57a104059275a31b85d087d19426381
+SHA256: 437687c02c80daf4dff46e7439b1c7ae165cde3650e4109996307f8137e7ec1f
 Section: checkinstall
 Priority: extra
 Description: Package created with checkinstall 1.6.3
