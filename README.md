@@ -1,5 +1,5 @@
 # focalx_ppa
-PPA Repo for DragonOS FocalX
+PPA Repo for DragonOS FocalX x86_64 only. Not for DragonOS Pi64 at the moment. Sorry. Hope to fix that some day soon! 
 
 
 ```
