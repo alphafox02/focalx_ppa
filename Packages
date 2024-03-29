@@ -612,16 +612,16 @@ Priority: optional
 Description: A satellite data processing software
 
 Package: sdrangel
-Version: 7.19.0-1
+Version: 7.19.1-1
 Architecture: amd64
 Maintainer: Edouard Griffiths, F4EXB <f4exb06@gmail.com>
-Installed-Size: 86086
+Installed-Size: 86292
 Depends: libairspy0 (>= 1.0.10), libavcodec58 (>= 7:4.4), libavformat58 (>= 7:4.4), libavutil56 (>= 7:4.4), libbladerf2 (>= 0.2021.10), libc6 (>= 2.35), libcodec2-1.0 (>= 1.0.1), libfaad2 (>= 2.7), libfftw3-single3 (>= 3.3.5), libgcc-s1 (>= 4.0), libhackrf0 (>= 2021.03.1), libhamlib4, libhidapi-libusb0 (>= 0.8.0~rc1+git20140201.3a66d4e+dfsg), libiio0 (>= 0.23), libopencv-core4.5d (>= 4.5.4+dfsg), libopencv-imgcodecs4.5d (>= 4.5.4+dfsg), libopencv-imgproc4.5d (>= 4.5.4+dfsg), libopencv-videoio4.5d (>= 4.5.4+dfsg), libopengl0, libopus0 (>= 1.1), libqt5charts5 (>= 5.14.1), libqt5core5a (>= 5.15.1), libqt5gamepad5 (>= 5.11.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5location5 (>= 5.6.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.15.1), libqt5positioning5 (>= 5.6.0), libqt5qml5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialport5 (>= 5.6.0), libqt5svg5 (>= 5.6.0~beta), libqt5texttospeech5 (>= 5.8.0~alpha), libqt5webenginewidgets5 (>= 5.14.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11), libswresample3 (>= 7:4.4), libswscale5 (>= 7:4.4), libuhd4.1.0 (>= 4.1.0.5), libusb-1.0-0 (>= 2:1.0.23~), qtbase-abi-5-15-3, libasound2, libgl1-mesa-glx, libqt5multimedia5-plugins, qtspeech5-speechd-plugin, pulseaudio, ffmpeg, qml-module-qtlocation, qml-module-qtpositioning, qml-module-qtquick-window2, qml-module-qtquick-dialogs, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-layouts, qml-module-qtgraphicaleffects
-Filename: ./sdrangel_7.19.0-1_amd64.deb
-Size: 35303752
-MD5sum: ea340038ee7d39870f3472010c4caec9
-SHA1: 923958a719780afe930c0814a06b28341700150b
-SHA256: b2bfa654f44c96c07323a6832c20f89d582db11202a9c274b130a50652f5a393
+Filename: ./sdrangel_7.19.1-1_amd64.deb
+Size: 35353742
+MD5sum: efe13fbf84693687251affc89d4aad70
+SHA1: 6ac590e050989af3218851f489453ae6bdf19dd4
+SHA256: 28a3864057bdf7205548a8f734a6951a020ddb9395e8d538ff0d47c74a1d78eb
 Section: hamradio
 Priority: optional
 Homepage: https://github.com/f4exb/sdrangel
@@ -641,15 +641,15 @@ Description: SDR/Analyzer/Generator front-end for various hardware
    Digital: DVB-S, Packet (AX.25), AIS, 802.15.4
 
 Package: sdrpp
-Version: 1.1.0-1215
+Version: 1.1.0-1254
 Architecture: all
 Maintainer: Ryzerth
 Depends: libfftw3-dev, libglfw3-dev, libvolk2-dev, librtaudio-dev, libzstd-dev
 Filename: ./sdrpp_ubuntu_jammy_amd64.deb
-Size: 2252610
-MD5sum: 76497bd8b7c7bed502e57da29967e16f
-SHA1: a588eb9d8352de3e457494a2ba27e24eb62c05a4
-SHA256: 37bb692e8896d63c11f29fbbd9b4d9a87e675041924b6c3c11c3a456151f2d14
+Size: 2266652
+MD5sum: 59d05464408121016a31c639e3348849
+SHA1: aa6a5b9ae8eb83cdd37cecd25da7a3226b1e894d
+SHA256: d4401ef0944c921d0a949c16d8176f6735e21f2391fd3a9a760e99bb218eb990
 Description: Bloat-free SDR receiver software
 
 Package: sdrtrunk
