@@ -42,16 +42,16 @@ SHA256: 6ddfc571718fb19ede0b0310d720d9f426bfea96c65d8b80698d42cb428ff9e9
 Description: SDR receiver software
 
 Package: SparkSDR
-Version: 2.0.971
+Version: 2.0.975
 Architecture: amd64
 Maintainer: SparkSDR
-Installed-Size: 107124
+Installed-Size: 97304
 Depends: libc6, libgcc1, libgssapi-krb5-2, libstdc++6, zlib1g, libssl3 | libssl1.1 | libssl1.0.2 | libssl1.0.1 | libssl1.0.0 | libssl0.9.8, libicu72 | libicu71 |libicu70 | libicu69 |libicu68 | libicu67 |libicu66 | libicu65 | libicu64 | libicu63 | libicu62 | libicu61 | libicu60 | libicu59 | libicu58 | libicu57 | libicu56 | libicu55 | libicu54 | libicu53 | libicu52, libportaudio2, libusb-1.0-0-dev
-Filename: ./SparkSDR.2.0.971.linux-x64.deb
-Size: 27989064
-MD5sum: 0df68b39e8a1d57e1421ee629cc8a94f
-SHA1: 12fd1d77173950271e491c7bf1a5a3036ed8f4bf
-SHA256: 2d0da8f04d5d54d79907d739211d972bb1b41e711f3dd721079fffcbdbe6322a
+Filename: ./SparkSDR.2.0.975.linux-x64.deb
+Size: 24652124
+MD5sum: e9cc1f693df295216a03847dad850c40
+SHA1: c6d59d1f5b0fe90ca145e3d24a0286f81ed62761
+SHA256: 8336277849c160ac9032de693ee6d7f70dd853ec4e15a4ae7f0f85d9f873c83c
 Section: misc
 Priority: extra
 Description: SparkSDR multi radio, multi receiver software defined radio.
@@ -612,16 +612,16 @@ Priority: optional
 Description: A satellite data processing software
 
 Package: sdrangel
-Version: 7.20.0-1
+Version: 7.20.1-1
 Architecture: amd64
 Maintainer: Edouard Griffiths, F4EXB <f4exb06@gmail.com>
-Installed-Size: 87110
+Installed-Size: 87147
 Depends: libairspy0 (>= 1.0.10), libavcodec58 (>= 7:4.4), libavformat58 (>= 7:4.4), libavutil56 (>= 7:4.4), libbladerf2 (>= 0.2021.10), libc6 (>= 2.35), libcodec2-1.0 (>= 1.0.1), libfaad2 (>= 2.7), libfftw3-single3 (>= 3.3.5), libgcc-s1 (>= 4.0), libhackrf0 (>= 2021.03.1), libhamlib4, libhidapi-libusb0 (>= 0.8.0~rc1+git20140201.3a66d4e+dfsg), libiio0 (>= 0.23), libopencv-core4.5d (>= 4.5.4+dfsg), libopencv-imgcodecs4.5d (>= 4.5.4+dfsg), libopencv-imgproc4.5d (>= 4.5.4+dfsg), libopencv-videoio4.5d (>= 4.5.4+dfsg), libopengl0, libopus0 (>= 1.1), libqt5charts5 (>= 5.14.1), libqt5core5a (>= 5.15.1), libqt5gamepad5 (>= 5.11.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5location5 (>= 5.6.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.15.1), libqt5positioning5 (>= 5.6.0), libqt5qml5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialport5 (>= 5.6.0), libqt5svg5 (>= 5.6.0~beta), libqt5texttospeech5 (>= 5.8.0~alpha), libqt5webenginewidgets5 (>= 5.14.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11), libswresample3 (>= 7:4.4), libswscale5 (>= 7:4.4), libuhd4.1.0 (>= 4.1.0.5), libusb-1.0-0 (>= 2:1.0.23~), qtbase-abi-5-15-3, libasound2, libgl1-mesa-glx, libqt5multimedia5-plugins, qtspeech5-speechd-plugin, pulseaudio, ffmpeg, gstreamer1.0-libav, qml-module-qtlocation, qml-module-qtpositioning, qml-module-qtquick-window2, qml-module-qtquick-dialogs, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-layouts, qml-module-qtgraphicaleffects
-Filename: ./sdrangel_7.20.0-1_amd64.deb
-Size: 35576816
-MD5sum: 905c84f3dd3ace155052e5076daa84fd
-SHA1: e56da3e77df8f4f2c6a612b8b788243112e57aed
-SHA256: 0f3996c519cadf0ec26372f9d7d44d6312f73d3d7175e6ab9156d01d84c81c41
+Filename: ./sdrangel_7.20.1-1_amd64.deb
+Size: 35562314
+MD5sum: e838cef1f5753012ae92282187869598
+SHA1: b00cddadae722f041c7c8f747f33729479402a6a
+SHA256: 2662b29f9583d4a8def1279010c2b0caac98f0c360bd29dd719accd347d9cee6
 Section: hamradio
 Priority: optional
 Homepage: https://github.com/f4exb/sdrangel
@@ -641,15 +641,15 @@ Description: SDR/Analyzer/Generator front-end for various hardware
    Digital: DVB-S, Packet (AX.25), AIS, 802.15.4
 
 Package: sdrpp
-Version: 1.1.0-1276
+Version: 1.1.0-1285
 Architecture: all
 Maintainer: Ryzerth
 Depends: libfftw3-dev, libglfw3-dev, libvolk2-dev, librtaudio-dev, libzstd-dev
 Filename: ./sdrpp_ubuntu_jammy_amd64.deb
-Size: 2258456
-MD5sum: 04d3f7a401487347607592fa8c9d24dc
-SHA1: 9646a25f1cc89428f859ea107cf015a0d76ed9ce
-SHA256: 9214c7f30e65c7e789d269434f5c73bf95fab0fb335fa306a31cb8ec777f449b
+Size: 2261492
+MD5sum: a9449be92cfb2b189eab15e751c625a7
+SHA1: 15a8debed35709bb299a19352a907d0664f3c4a4
+SHA256: b2b71183820acabef2e2077069101da712f2af613e3745d5606daecd37cecd28
 Description: Bloat-free SDR receiver software
 
 Package: sdrtrunk
