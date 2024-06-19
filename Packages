@@ -540,16 +540,16 @@ Priority: extra
 Description: Package created with checkinstall 1.6.3
 
 Package: rtl-433
-Version: 20230510-1
+Version: 20240619-1
 Architecture: amd64
 Maintainer: root@dragon
-Installed-Size: 1200
+Installed-Size: 1260
 Provides: build
-Filename: ./rtl-433_20230510-1_amd64.deb
-Size: 409304
-MD5sum: 6e15557f4c4f312405089c280e319e80
-SHA1: ef81df2634b12b288acc0c197be9fca8739cdd03
-SHA256: 68538d5a10848450eeda297d7b9f745ec2c0ff29114f159c2be56642fabf6863
+Filename: ./rtl-433_20240619-1_amd64.deb
+Size: 426762
+MD5sum: a4ac55eb20120710bc9f1a9d2677321c
+SHA1: 2e58d22f9f74a7b56aa8e51da07dc8cc4cab984a
+SHA256: d63884092470c7b3c567276fd6c90900b882a6cb8eb7f5bfbc47b47ca66faea4
 Section: checkinstall
 Priority: extra
 Description: Package created with checkinstall 1.6.3
