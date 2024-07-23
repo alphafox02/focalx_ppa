@@ -177,6 +177,21 @@ Section: checkinstall
 Priority: extra
 Description: Package created with checkinstall 1.6.3
 
+Package: gr-osmosdr
+Version: 20240723-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 2092
+Provides: build
+Filename: ./gr-osmosdr_20240723-1_amd64.deb
+Size: 483836
+MD5sum: cd88135bf5afd403534ec132dedc03ac
+SHA1: d2bcaa8d3081140d954f5f00c8ce252cb2d0c4ee
+SHA256: b912ae5bf731f0f7d81c650109afcfdeb7baf38305cca48f0613d03a1d93f09c
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
 Package: gr-sdrplay3
 Version: 20240205-1
 Architecture: amd64
