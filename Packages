@@ -102,6 +102,21 @@ Section: checkinstall
 Priority: extra
 Description: Package created with checkinstall 1.6.3
 
+Package: dsd-fme
+Version: 20240825-1
+Architecture: amd64
+Maintainer: root@dragon
+Installed-Size: 1072
+Provides: build
+Filename: ./dsd-fme_20240825-1_amd64.deb
+Size: 279334
+MD5sum: 4058da7b46f084501d2bf15120efc8dc
+SHA1: d0a7deab6ec63b18e60d0f978a850a45317706ef
+SHA256: 0fc321c520ea3b3376603815536544949ba9ee6bc5413b86324b87dc9a3d95d1
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
 Package: dumphfdl
 Version: 20231217-1
 Architecture: amd64
