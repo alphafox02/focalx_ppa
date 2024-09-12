@@ -696,6 +696,33 @@ Section: utils
 Priority: optional
 Description: SDR Trunk - Software Defined Radio application
 
+Package: serialportassistant
+Version: 0.5.26
+Architecture: amd64
+Maintainer: Kang Lin <kl222@126.com>
+Installed-Size: 2535
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5serialport5 (>= 5.6.0), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.2.0~alpha1), libqt5xml5 (>= 5.0.2), libssl3 (>= 3.0.0~~alpha1), libstdc++6 (>= 5.2)
+Filename: ./serialportassistant_0.5.26_amd64.deb
+Size: 1043672
+MD5sum: f68a03cfdaa7ed31bb0ebcdb748f4344
+SHA1: 38f4984d4afc0be9db3f38986707f85fad3c5b4e
+SHA256: 661272e0468a0decec18b4136bebac73f844ac2f69fa4ac4a3ed3466487e369b
+Section: utils
+Priority: optional
+Homepage: https://github.com/KangLin/SerialPortAssistant
+Description: Serial Port Assistant
+ Serial port assistant
+ .
+ Author: Kang Lin <kl222@126.com>
+ .
+ Donation:
+ .
+ https://github.com/KangLin/RabbitCommon/raw/master/Src/Resource/image/Contribute.png
+ .
+ https://gitee.com/kl222/RabbitCommon/raw/master/Src/Resource/image/Contribute.png
+ .
+ https://gitlab.com/kl222/RabbitCommon/-/raw/master/Src/Resource/image/Contribute.png
+
 Package: soapysdr0.8-module-sdrplay
 Version: 20240210-1
 Architecture: amd64
