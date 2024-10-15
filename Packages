@@ -88,21 +88,6 @@ Priority: extra
 Description: Package created with checkinstall 1.6.3
 
 Package: dsd-fme
-Version: 20230624-1
-Architecture: amd64
-Maintainer: root@dragon
-Installed-Size: 792
-Provides: build
-Filename: ./dsd-fme_20230624-1_amd64.deb
-Size: 207382
-MD5sum: f454af28ba0572ed321d62273975a99e
-SHA1: a5a0e8f18c0883f619b9389cfc3116257755ba55
-SHA256: 54e6c04953cd8a7def04a03cfcca59969d0dbcd3961ee7a863514f1edc254ead
-Section: checkinstall
-Priority: extra
-Description: Package created with checkinstall 1.6.3
-
-Package: dsd-fme
 Version: 20240825-1
 Architecture: amd64
 Maintainer: root@dragon
@@ -642,35 +627,6 @@ Priority: optional
 Description: A satellite data processing software
 
 Package: sdrangel
-Version: 7.20.1-1
-Architecture: amd64
-Maintainer: Edouard Griffiths, F4EXB <f4exb06@gmail.com>
-Installed-Size: 87147
-Depends: libairspy0 (>= 1.0.10), libavcodec58 (>= 7:4.4), libavformat58 (>= 7:4.4), libavutil56 (>= 7:4.4), libbladerf2 (>= 0.2021.10), libc6 (>= 2.35), libcodec2-1.0 (>= 1.0.1), libfaad2 (>= 2.7), libfftw3-single3 (>= 3.3.5), libgcc-s1 (>= 4.0), libhackrf0 (>= 2021.03.1), libhamlib4, libhidapi-libusb0 (>= 0.8.0~rc1+git20140201.3a66d4e+dfsg), libiio0 (>= 0.23), libopencv-core4.5d (>= 4.5.4+dfsg), libopencv-imgcodecs4.5d (>= 4.5.4+dfsg), libopencv-imgproc4.5d (>= 4.5.4+dfsg), libopencv-videoio4.5d (>= 4.5.4+dfsg), libopengl0, libopus0 (>= 1.1), libqt5charts5 (>= 5.14.1), libqt5core5a (>= 5.15.1), libqt5gamepad5 (>= 5.11.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5location5 (>= 5.6.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.15.1), libqt5positioning5 (>= 5.6.0), libqt5qml5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialport5 (>= 5.6.0), libqt5svg5 (>= 5.6.0~beta), libqt5texttospeech5 (>= 5.8.0~alpha), libqt5webenginewidgets5 (>= 5.14.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11), libswresample3 (>= 7:4.4), libswscale5 (>= 7:4.4), libuhd4.1.0 (>= 4.1.0.5), libusb-1.0-0 (>= 2:1.0.23~), qtbase-abi-5-15-3, libasound2, libgl1-mesa-glx, libqt5multimedia5-plugins, qtspeech5-speechd-plugin, pulseaudio, ffmpeg, gstreamer1.0-libav, qml-module-qtlocation, qml-module-qtpositioning, qml-module-qtquick-window2, qml-module-qtquick-dialogs, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-layouts, qml-module-qtgraphicaleffects
-Filename: ./sdrangel_7.20.1-1_amd64.deb
-Size: 35562314
-MD5sum: e838cef1f5753012ae92282187869598
-SHA1: b00cddadae722f041c7c8f747f33729479402a6a
-SHA256: 2662b29f9583d4a8def1279010c2b0caac98f0c360bd29dd719accd347d9cee6
-Section: hamradio
-Priority: optional
-Homepage: https://github.com/f4exb/sdrangel
-Description: SDR/Analyzer/Generator front-end for various hardware
- SDR/Analyzer/Generator front-end for Airspy, BladeRF, HackRF,
- RTL-SDR, FunCube, LimeSDR, PlutoSDR, RSP, USRP.
- Also File source and sink for I/Q samples, network I/Q sources with
- remote instance.
- Based on Qt5 framework and OpenGL for the spectrum and scope rendering.
- Builds on Linux, Windows and Mac O/S
- Reception modes supported:
-   Analog: AM, ATV, NFM, WFM, SSB, broadcast FM, APT, ILS, VOR
-   Digital: D-Star, Yaesu SF, DMR, dPMR, FreeDV, M17, DAB, DVB-S, LoRa, ADS-B, Packet (AX.25/APRS), AIS, FT8, Navtex, Radiosonde, RTTY, Pager
-   Analyzer: Generic channel
- Transmission modes supported:
-   Analog: AM, ATV, NFM, SSB, WFM
-   Digital: DVB-S, Packet (AX.25), AIS, 802.15.4
-
-Package: sdrangel
 Version: 7.22.1-1
 Architecture: amd64
 Maintainer: Edouard Griffiths, F4EXB <f4exb06@gmail.com>
@@ -700,15 +656,15 @@ Description: SDR/Analyzer/Generator front-end for various hardware
    Digital: DVB-S, Packet (AX.25), AIS, 802.15.4
 
 Package: sdrpp
-Version: 1.1.0-1285
+Version: 1.2.0-1373
 Architecture: all
 Maintainer: Ryzerth
 Depends: libfftw3-dev, libglfw3-dev, libvolk2-dev, librtaudio-dev, libzstd-dev
 Filename: ./sdrpp_ubuntu_jammy_amd64.deb
-Size: 2261492
-MD5sum: a9449be92cfb2b189eab15e751c625a7
-SHA1: 15a8debed35709bb299a19352a907d0664f3c4a4
-SHA256: b2b71183820acabef2e2077069101da712f2af613e3745d5606daecd37cecd28
+Size: 2309622
+MD5sum: 45001a6d4c87548131fce1f33c9aa7e6
+SHA1: c17bce4945842d55b56c2c6e9c2256297b1faa31
+SHA256: 84296c7fa94151197ed9644c1800662cb3492205aeb3292f9d9d3d1bf3abc174
 Description: Bloat-free SDR receiver software
 
 Package: sdrtrunk
