@@ -401,6 +401,23 @@ Description: Software defined radio receiver for Realtek RTL2832U (library)
  This package contains the shared library.
 Original-Maintainer: A. Maitland Bottoms <bottoms@debian.org>
 
+Package: linux-wifi-hotspot
+Version: 4.7.2
+Architecture: amd64
+Maintainer: Lakindu Akash <lakinduakash@users.noreply.github.com>
+Installed-Size: 272
+Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.31.18), libgtk-3-0 (>= 3.16.2), libpng16-16 (>= 1.6.2-1), libqrencode4 (>= 4.0), libstdc++6 (>= 5.2), libx11-6, hostapd (>= 2.0), iw (>= 5.4), iproute2 (>= 5.0), util-linux (>= 2.3), procps (>= 3.3)
+Filename: ./linux-wifi-hotspot_4.7.2_amd64.deb
+Size: 84864
+MD5sum: 73935198e13481fea995764b070911e7
+SHA1: 542a3f9133259fac00bcc6dd913bfa8a6dbff9cb
+SHA256: ec163ae6fe2e1568c1a3a0ee6a5d7d83f6e0e9bb5fdec17d145caaffc5228652
+Section: devel
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://github.com/lakinduakash/linux-wifi-hotspot
+Description: GUI tool for creating virtual hotspots using the same wi-fi card that is already connected to an access point.
+
 Package: osmo-pcu
 Version: 1.1.2
 Architecture: amd64
