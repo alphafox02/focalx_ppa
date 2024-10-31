@@ -629,16 +629,16 @@ Description: Software defined radio receiver for Realtek RTL2832U (tools)
 Original-Maintainer: A. Maitland Bottoms <bottoms@debian.org>
 
 Package: satdump
-Version: 1.2.1-59380c0c
+Version: 1.2.1-69380c0c
 Architecture: amd64
 Maintainer: Aang23
-Installed-Size: 165898
-Depends: libfftw3-bin, libvolk-bin | libvolk2-bin, libpng16-16, libnng1, librtlsdr0 | librtlsdr2, libhackrf0, libairspy0, libairspyhf1, libglfw3 | libglfw3-wayland, libzstd1, libjemalloc2 | libjemalloc1
-Filename: ./satdump_1.2.1-59380c0c_amd64.deb
-Size: 33324080
-MD5sum: 504570544e1201eb66c119612fe7d0b1
-SHA1: 69edac0891bb78931734555c82df490ba5ee3b6b
-SHA256: 9d6543a07e04b92b55414f2f92657375fbfb28041db3fb6abcf2f0c25b16a4ba
+Installed-Size: 177105
+Depends: libfftw3-bin, libvolk-bin | libvolk2-bin, libpng16-16, libnng1, librtlsdr0 | librtlsdr2, libhackrf0, libairspy0, libairspyhf1, libglfw3 | libglfw3-wayland, libzstd1, libjemalloc2 | libjemalloc1, libportaudiocpp0, libhdf5-hl-100t64 | libhdf5-hl-100 | libhdf5-103 | libhdf5-100
+Filename: ./satdump_1.2.1_amd64.deb
+Size: 37957678
+MD5sum: 65c2060b231b7d5c8ffb6066b01e0856
+SHA1: 468451417b6fa483caab80e428c5c49e3aca664e
+SHA256: 8ad3ef2726f9d4bcd189c8bc3ad9c865fe778dff805589cf88723d156c45108d
 Section: devel
 Priority: optional
 Description: A satellite data processing software
