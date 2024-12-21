@@ -31,14 +31,14 @@ Priority: extra
 Description: Package created with checkinstall 1.6.3
 
 Package: SDRconnect
-Version: 20241124-0c0a9d6d7
+Version: 20241220-b6fce59a3
 Architecture: all
 Maintainer: SDRplay
 Filename: ./SDRconnect_amd64.deb
-Size: 37778952
-MD5sum: 1879169d8c9ba5a3dbe389669b164631
-SHA1: 8bcc6d07a769e3dfc4b0d7c2a48644cc39bd1d81
-SHA256: 4e8b1ab7fc79cedc56c7fd28108e67706abdfa83076825f921346918d8d2a665
+Size: 37893326
+MD5sum: de2e77baec35b6945f2ed9d91735b153
+SHA1: d3c0777aac23e365b40663093342d096c22f7d5c
+SHA256: 39502b10ac5a57c9bdb5e9f4c207fe96a06016e04c4df46601afea5afb48f454
 Description: SDR receiver software
 
 Package: SparkSDR
@@ -133,16 +133,16 @@ Priority: extra
 Description: Package created with checkinstall 1.6.3
 
 Package: gqrx-sdr
-Version: 20231130-1
+Version: 20241220-1
 Architecture: amd64
 Maintainer: root@dragon
-Installed-Size: 2256
+Installed-Size: 2276
 Provides: build
-Filename: ./gqrx-sdr_20231130-1_amd64.deb
-Size: 716648
-MD5sum: 6af2dc77522ca5e6fb0e5a3f70ac8b67
-SHA1: d276ac385934ab2831afaad80e307aeccfd57ac5
-SHA256: 9b5cde14f20d03456b92caadbfd36ab449de2fb859e36a91f1339d4aebb28cc5
+Filename: ./gqrx-sdr_20241220-1_amd64.deb
+Size: 724386
+MD5sum: 44c794900217996b8b0c939883a123fd
+SHA1: 603a3dbf0873334203f9782cd8471383bd0d061a
+SHA256: 66ff3728fd6ef18fef1dc6e839236ac826484370177dbd63f6da72bda44c7a5c
 Section: checkinstall
 Priority: extra
 Description: Package created with checkinstall 1.6.3
@@ -644,16 +644,16 @@ Priority: optional
 Description: A satellite data processing software
 
 Package: sdrangel
-Version: 7.22.1-1
+Version: 7.22.5-1
 Architecture: amd64
 Maintainer: Edouard Griffiths, F4EXB <f4exb06@gmail.com>
-Installed-Size: 90336
-Depends: libairspy0 (>= 1.0.10), libavcodec58 (>= 7:4.4), libavformat58 (>= 7:4.4), libavutil56 (>= 7:4.4), libbladerf2 (>= 0.2021.10), libc6 (>= 2.35), libcodec2-1.0 (>= 1.0.1), libfaad2 (>= 2.7), libfftw3-single3 (>= 3.3.5), libgcc-s1 (>= 4.0), libhackrf0 (>= 2021.03.1), libhamlib4, libhidapi-libusb0 (>= 0.8.0~rc1+git20140201.3a66d4e+dfsg), libiio0 (>= 0.23), libopencv-core4.5d (>= 4.5.4+dfsg), libopencv-imgcodecs4.5d (>= 4.5.4+dfsg), libopencv-imgproc4.5d (>= 4.5.4+dfsg), libopencv-videoio4.5d (>= 4.5.4+dfsg), libopengl0, libopus0 (>= 1.1), libqt5charts5 (>= 5.14.1), libqt5core5a (>= 5.15.1), libqt5gamepad5 (>= 5.11.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5location5 (>= 5.6.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.15.1), libqt5positioning5 (>= 5.6.0), libqt5qml5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialport5 (>= 5.6.0), libqt5svg5 (>= 5.6.0~beta), libqt5texttospeech5 (>= 5.8.0~alpha), libqt5webenginewidgets5 (>= 5.14.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libsoapysdr0.8 (>= 0.8.1), libstdc++6 (>= 11), libswresample3 (>= 7:4.4), libswscale5 (>= 7:4.4), libuhd4.1.0 (>= 4.1.0.5), libusb-1.0-0 (>= 2:1.0.23~), qtbase-abi-5-15-3, libasound2, libgl1-mesa-glx, libqt5multimedia5-plugins, qtspeech5-speechd-plugin, pulseaudio, ffmpeg, gstreamer1.0-libav, qml-module-qtlocation, qml-module-qtpositioning, qml-module-qtquick-window2, qml-module-qtquick-dialogs, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-layouts, qml-module-qtgraphicaleffects
-Filename: ./sdrangel_7.22.1-1_amd64.deb
-Size: 36897994
-MD5sum: dd43416d8b433af54c62b1a62e67baeb
-SHA1: 7189ac572590bad7e5b88843d3eaade42e2ef4d7
-SHA256: 7d88ad78a5907fb33bdd3627690d085ba2b5606af821e30dad67eb03fb64b76f
+Installed-Size: 91346
+Depends: libairspy0 (>= 1.0.10), libavcodec58 (>= 7:4.4), libavformat58 (>= 7:4.4), libavutil56 (>= 7:4.4), libbladerf2 (>= 0.2021.10), libc6 (>= 2.35), libcodec2-1.0 (>= 1.0.1), libfaad2 (>= 2.7), libfftw3-single3 (>= 3.3.5), libgcc-s1 (>= 4.0), libhackrf0 (>= 2021.03.1), libhamlib4, libhidapi-libusb0 (>= 0.8.0~rc1+git20140201.3a66d4e+dfsg), libiio0 (>= 0.23), libopencv-core4.5d (>= 4.5.4+dfsg), libopencv-imgcodecs4.5d (>= 4.5.4+dfsg), libopencv-imgproc4.5d (>= 4.5.4+dfsg), libopencv-videoio4.5d (>= 4.5.4+dfsg), libopengl0, libopus0 (>= 1.1), libqt5charts5 (>= 5.14.1), libqt5core5a (>= 5.15.1), libqt5gamepad5 (>= 5.11.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5location5 (>= 5.6.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.15.1), libqt5positioning5 (>= 5.6.0), libqt5qml5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialport5 (>= 5.6.0), libqt5svg5 (>= 5.6.0~beta), libqt5texttospeech5 (>= 5.8.0~alpha), libqt5webenginewidgets5 (>= 5.14.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libsoapysdr0.8 (>= 0.8.1), libstdc++6 (>= 11), libswresample3 (>= 7:4.4), libswscale5 (>= 7:4.4), libuhd4.1.0 (>= 4.1.0.5), libusb-1.0-0 (>= 2:1.0.23~), qtbase-abi-5-15-3, zlib1g (>= 1:1.1.4), libasound2, libgl1, libglx-mesa0, libqt5multimedia5-plugins, qtspeech5-speechd-plugin, pulseaudio | pipewire-pulse, ffmpeg, gstreamer1.0-libav, qml-module-qtlocation, qml-module-qtpositioning, qml-module-qtquick-window2, qml-module-qtquick-dialogs, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-layouts, qml-module-qtgraphicaleffects
+Filename: ./sdrangel_7.22.5_ubuntu-22.04_amd64.deb
+Size: 37228770
+MD5sum: a9b4662c723df14c38fec68d458e521c
+SHA1: f5539c63570c5a0ad03db9a1c97134bd7391488c
+SHA256: 103b05c5ee7d2e6c8737ebe43f31c2aba0701103c60c2b90ff46274c33ff56c0
 Section: hamradio
 Priority: optional
 Homepage: https://github.com/f4exb/sdrangel
@@ -673,15 +673,15 @@ Description: SDR/Analyzer/Generator front-end for various hardware
    Digital: DVB-S, Packet (AX.25), AIS, 802.15.4
 
 Package: sdrpp
-Version: 1.2.0-1379
+Version: 1.2.1-1424
 Architecture: all
 Maintainer: Ryzerth
 Depends: libfftw3-dev, libglfw3-dev, libvolk2-dev, librtaudio-dev, libzstd-dev
 Filename: ./sdrpp_ubuntu_jammy_amd64.deb
-Size: 2295646
-MD5sum: 2901b96f5059f40064767ee3ce48af2f
-SHA1: 123dce1238fb47e3c724607da145a8925894d650
-SHA256: ced2ed750ef59cf0f756e39868382d114c173b202e5ee7823d96128b51eef8f4
+Size: 2304876
+MD5sum: a043a24caf2776350dde63e5d1bb1bee
+SHA1: 841637c81b2105e84c4a56713893fdcbf9fd6c23
+SHA256: a35ed58a51fc663ddd2603472eaffb60752e0a7cb014731b41a32da648ea1ceb
 Description: Bloat-free SDR receiver software
 
 Package: sdrtrunk
