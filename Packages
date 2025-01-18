@@ -132,6 +132,40 @@ Section: checkinstall
 Priority: extra
 Description: Package created with checkinstall 1.6.3
 
+Package: gpsd
+Version: 3.22-4ubuntu3
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 1302
+Depends: netbase | systemd-sysv, lsb-base (>= 3.2-13), adduser (>= 3.34), libbluetooth3 (>= 4.91), libc6 (>= 2.35), libdbus-1-3 (>= 1.9.14), libusb-1.0-0 (>= 2:1.0.8), libgps28 (= 3.22-4ubuntu2), python3:any, python3
+Recommends: udev, gpsd-tools
+Suggests: gpsd-clients, dbus, apparmor
+Conflicts: fso-gpsd
+Breaks: gpsd-clients (<< 3.20-9), gpsd-tools (<< 3.20-10), udev (<< 136-1)
+Replaces: gpsd-clients (<< 3.20-9), gpsd-tools (<< 3.20-10)
+Filename: ./gpsd_3.22-4ubuntu3_amd64.deb
+Size: 491962
+MD5sum: 5da2b00b116fbc6dec441375c91b8d94
+SHA1: 2eb83ecd5906d82d5c0d65e627db2cecf57123f2
+SHA256: 0729d0098b43245b3ea78ce6426aac080919603a429e37a93d93f5cd09138b83
+Section: misc
+Priority: optional
+Multi-Arch: foreign
+Homepage: http://www.catb.org/gpsd/
+Description: Global Positioning System - daemon
+ The gpsd service daemon can monitor one or more GPS devices connected to
+ a host computer, making all data on the location and movements of the
+ sensors available to be queried on TCP port 2947.
+ .
+ With gpsd, multiple GPS client applications can share access to devices
+ without contention or loss of data. Also, gpsd responds to queries with a
+ format that is substantially easier to parse than the different standards
+ emitted by GPS devices.
+ .
+ This also includes common tools ubxtool and gpsctl for device configuration
+ of the local hardware as well as a ntpshmmon to check generated refclock data.
+Original-Maintainer: Bernd Zeimetz <bzed@debian.org>
+
 Package: gqrx-sdr
 Version: 20241220-1
 Architecture: amd64
