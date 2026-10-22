@@ -133,21 +133,21 @@ Priority: extra
 Description: Package created with checkinstall 1.6.3
 
 Package: gpsd
-Version: 3.22-4ubuntu3
+Version: 3.22-4ubuntu3.1
 Architecture: amd64
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
-Installed-Size: 1302
-Depends: netbase | systemd-sysv, lsb-base (>= 3.2-13), adduser (>= 3.34), libbluetooth3 (>= 4.91), libc6 (>= 2.35), libdbus-1-3 (>= 1.9.14), libusb-1.0-0 (>= 2:1.0.8), libgps28 (= 3.22-4ubuntu2), python3:any, python3
+Installed-Size: 1480
+Depends: netbase | systemd-sysv, lsb-base (>= 3.2-13), adduser (>= 3.34), libbluetooth3 (>= 4.91), libc6 (>= 2.35), libdbus-1-3 (>= 1.9.14), libusb-1.0-0 (>= 2:1.0.8), libgps28 (>= 3.22-4ubuntu2.1), python3:any, python3
 Recommends: udev, gpsd-tools
 Suggests: gpsd-clients, dbus, apparmor
 Conflicts: fso-gpsd
 Breaks: gpsd-clients (<< 3.20-9), gpsd-tools (<< 3.20-10), udev (<< 136-1)
 Replaces: gpsd-clients (<< 3.20-9), gpsd-tools (<< 3.20-10)
-Filename: ./gpsd_3.22-4ubuntu3_amd64.deb
-Size: 491962
-MD5sum: 5da2b00b116fbc6dec441375c91b8d94
-SHA1: 2eb83ecd5906d82d5c0d65e627db2cecf57123f2
-SHA256: 0729d0098b43245b3ea78ce6426aac080919603a429e37a93d93f5cd09138b83
+Filename: ./gpsd_3.22-4ubuntu3.1_amd64.deb
+Size: 455460
+MD5sum: 4b0506a97e34ad27edd528baffe1d7ff
+SHA1: 301e6135a6f168c6dda100596b74f32666881f32
+SHA256: 9b51fb94bfcdf3fc6a66b7593de976dc283473a9c74ddc2f7210a5ce558a9a1f
 Section: misc
 Priority: optional
 Multi-Arch: foreign
